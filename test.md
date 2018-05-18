@@ -9,6 +9,14 @@ blablabla
 
 How to
 
+a*b
+
+a**b
+
+a'*'b
+
+
+
 ## Example2
 ## Third Example
 
